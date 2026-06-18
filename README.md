@@ -6,5 +6,4 @@ Graduation thesis
 - ResultsParser.py — Processes and structures raw persona responses
 - Analysis.py — Performs statistical analysis and outputs results
 - Dataset for survey - Experiment dataset.tsv — Contains the statement dataset used in the experiment
-- exports/ — Stores raw and processed outputs from the experiment
-- anova_... files — Generated statistical summaries and figures
+- analysis_dataset.csv - Parsed responses from the personas used for the analysis in the paper
