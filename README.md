@@ -1,6 +1,6 @@
 # CSE-2026-Research-Project
-Graduation thesis
-
+Graduation thesis: 
+Trust in Information in the Age of Generative AI
 
 - ExperimentScript.py — Runs the experimental simulation using AI-personas. To run use ```python ExperimentScript.py --base-url "URL for personas" --personas 500```
 - ResultsParser.py — Processes and structures raw persona responses
